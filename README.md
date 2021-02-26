@@ -24,9 +24,15 @@ Purpose of this project is creating a report that includes what cryptocurrencies
 
 > ### I. Preprocessing the Data for PCA
 
-Dataset is preprocessed inorder to perfrom PCA.
+Dataset is preprocessed inorder to perfrom PCA. The following dataframe is generated at the end:
+
+![2](https://user-images.githubusercontent.com/73450637/109267875-42113f80-77d8-11eb-8ea8-39553798b3fb.png)
 
 > ### II. Reducing Data Dimensions Using PCA
+
+Using the knowledge of how to apply the Principal Component Analysis (PCA) algorithm, the dimensions of the X DataFrame is reduced to three principal components and placed these dimensions in a new DataFrame.
+
+
 
 > ### III. Clustering Cryptocurrencies Using K-means
 
