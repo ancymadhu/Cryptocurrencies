@@ -51,3 +51,7 @@ Using the knowledge of creating scatter plots with Plotly Express and hvplot, th
 ![6](https://user-images.githubusercontent.com/73450637/109268738-818c5b80-77d9-11eb-9e15-898933d619dc.png)
 
 A table with all the currently tradable cryptocurrencies using the hvplot.table() function is created. 
+
+![7](https://user-images.githubusercontent.com/73450637/109268989-daf48a80-77d9-11eb-9f3c-2cb90e686179.png)
+
+A scatter plot is created that show the CoinName when you hover over the the data point.
