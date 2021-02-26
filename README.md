@@ -32,9 +32,11 @@ Dataset is preprocessed inorder to perfrom PCA. The following dataframe is gener
 
 Using the knowledge of how to apply the Principal Component Analysis (PCA) algorithm, the dimensions of the X DataFrame is reduced to three principal components and placed these dimensions in a new DataFrame.
 
-
+![3](https://user-images.githubusercontent.com/73450637/109268128-a207e600-77d8-11eb-9ad4-e6fdcaf6585a.png)
 
 > ### III. Clustering Cryptocurrencies Using K-means
+
+Using the knowledge of K-means algorithm, an elbow curve is created using hvPlot to find the best value for K from the pcs_df DataFrame created in Step II. 
 
 > ### IV. Visualizing Cryptocurrencies Results
 
