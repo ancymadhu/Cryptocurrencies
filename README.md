@@ -38,5 +38,9 @@ Using the knowledge of how to apply the Principal Component Analysis (PCA) algor
 
 Using the knowledge of K-means algorithm, an elbow curve is created using hvPlot to find the best value for K from the pcs_df DataFrame created in Step II. 
 
+![4](https://user-images.githubusercontent.com/73450637/109268378-fca14200-77d8-11eb-87b7-427294b16091.png)
+
+Then, the K-means algorithm is ran to predict the K clusters for the cryptocurrencies’ data.
+
 > ### IV. Visualizing Cryptocurrencies Results
 
