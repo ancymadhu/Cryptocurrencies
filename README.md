@@ -20,4 +20,15 @@ Purpose of this project is creating a report that includes what cryptocurrencies
 * Data Source: crypto_data.csv
 * Software: Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
 
+## Summary
+
+> ### I. Preprocessing the Data for PCA
+
+Dataset is preprocessed inorder to perfrom PCA.
+
+> ### II. Reducing Data Dimensions Using PCA
+
+> ### III. Clustering Cryptocurrencies Using K-means
+
+> ### IV. Visualizing Cryptocurrencies Results
 
