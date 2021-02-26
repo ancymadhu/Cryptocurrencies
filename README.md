@@ -42,5 +42,8 @@ Using the knowledge of K-means algorithm, an elbow curve is created using hvPlot
 
 Then, the K-means algorithm is ran to predict the K clusters for the cryptocurrencies’ data.
 
+![5](https://user-images.githubusercontent.com/73450637/109268548-3a9e6600-77d9-11eb-9bbd-9747118f75e8.png)
+
 > ### IV. Visualizing Cryptocurrencies Results
 
+Using the knowledge of creating scatter plots with Plotly Express and hvplot, the distinct groups that correspond to the three principal components are visualized.
