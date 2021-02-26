@@ -55,3 +55,5 @@ A table with all the currently tradable cryptocurrencies using the hvplot.table(
 ![7](https://user-images.githubusercontent.com/73450637/109268989-daf48a80-77d9-11eb-9f3c-2cb90e686179.png)
 
 A scatter plot is created that show the CoinName when you hover over the the data point.
+
+![8](https://user-images.githubusercontent.com/73450637/109269238-358de680-77da-11eb-9f91-a9c3a2dce1a0.png)
