@@ -47,3 +47,7 @@ Then, the K-means algorithm is ran to predict the K clusters for the cryptocurre
 > ### IV. Visualizing Cryptocurrencies Results
 
 Using the knowledge of creating scatter plots with Plotly Express and hvplot, the distinct groups that correspond to the three principal components are visualized.
+
+![6](https://user-images.githubusercontent.com/73450637/109268738-818c5b80-77d9-11eb-9e15-898933d619dc.png)
+
+A table with all the currently tradable cryptocurrencies using the hvplot.table() function is created. 
